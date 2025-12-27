@@ -54,7 +54,7 @@ For example:
       TARGET_XML = "./flash_l4t_t234_nvme_rootfs_ab.xml"
       cp "$SOURCE_XML" "$TARGET_XML
 ### Default user settings:
-      sudo ./tools/l4t_create_default_user.sh -u araiv -p araiv -a -n araiv-link --accept-license
+      sudo ./tools/l4t_create_default_user.sh -u rahul -p rahul -a -n rahul-link --accept-license
 ## Flashing
  For doing flashing, we have to put the Jetson into recovery mode.
  * Power off the Jetson board.
