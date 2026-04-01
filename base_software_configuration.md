@@ -75,7 +75,7 @@ Do the following
 
 Once flashing is successful, enter inside Jetson terminal and type lsblk. We should see:
 <pre><code>
-      araiv@araiv-link:~$ lsblk
+      rahul@rishu-link:~$ lsblk
       NAME         MAJ:MIN RM   SIZE RO TYPE MOUNTPOINTS
       zram0        252:0    0 952.6M  0 disk [SWAP]
       zram1        252:1    0 952.6M  0 disk [SWAP]

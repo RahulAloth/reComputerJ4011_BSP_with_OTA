@@ -1,9 +1,9 @@
 [connection]
 id=vehicle
-uuid=39a1ad73-8c97-311d-ba48-03837185fdf9
+uuid=39a1ad73-8c97-311d-ba48-03xxxxxxxxxx
 type=ethernet
 interface-name=enP1p1s0
-mac-address=2c:f7:f1:22:6a:67
+mac-address=2c:f7:f1:2x:xx:xx
 autoconnect-priority=100
 
 [ethernet]

@@ -1,6 +1,6 @@
 [connection]
 id=zms_router
-uuid=3d3692d7-8409-36b5-a6dd-ab8a72d0a254
+uuid=3d3692d7-8409-36b5-a6dd-ab8axxxxxxx
 type=ethernet
 interface-name=enP8p1s0
 mac-address=3c:6d:66:61:89:f1
